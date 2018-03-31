@@ -1,0 +1,7 @@
+C:\Users\Nigar\source\repos\Book_29.03.2018\Book_29.03.2018\bin\Debug\Book_29.03.2018.exe.config
+C:\Users\Nigar\source\repos\Book_29.03.2018\Book_29.03.2018\bin\Debug\Book_29.03.2018.exe
+C:\Users\Nigar\source\repos\Book_29.03.2018\Book_29.03.2018\bin\Debug\Book_29.03.2018.pdb
+C:\Users\Nigar\source\repos\Book_29.03.2018\Book_29.03.2018\obj\Debug\Book_29.03.2018.csprojResolveAssemblyReference.cache
+C:\Users\Nigar\source\repos\Book_29.03.2018\Book_29.03.2018\obj\Debug\Book_29.03.2018.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\source\repos\Book_29.03.2018\Book_29.03.2018\obj\Debug\Book_29.03.2018.exe
+C:\Users\Nigar\source\repos\Book_29.03.2018\Book_29.03.2018\obj\Debug\Book_29.03.2018.pdb
